@@ -1,4 +1,4 @@
-# My-skills-website
+# My skills website
 A cool website with responsive web design
 
 # Git y Github
