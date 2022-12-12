@@ -10,6 +10,6 @@ A cool website with my actual skills in software development.
 
 If you want to learn making interesting proyect visit the :  [Frontend Mentor Page](https://www.frontendmentor.io/home "Frontend Mentor Page")
 
-This page was created with dedication, if you want to visit the page click the link:  💙
+This page was created with dedication, if you want to visit the page click the link: [My Skills Card](https://my-skills-card.vercel.app/ "My Skills Card")  💙
 
 ### End
