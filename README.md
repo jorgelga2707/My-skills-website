@@ -1,46 +1,15 @@
-# My skills website
-A cool website with responsive web design
+# My skills Card
+A cool website with my actual skills in software development.
 
-# Git y Github
+## Second Class | Skills Card
 
-## Comprobar que Git esté instalado
+### Build with HTML and CSS
 
-```
-git -v
-git version 2.38.1.windows.1
-```
+- This is the second second class of the bootcamp full stack web.
+- I create a Card to practice the HTML elements and CSS properties.
 
-## Configuración global
+If you want to learn making interesting proyect visit the :  [Frontend Mentor Page](https://www.frontendmentor.io/home "Frontend Mentor Page")
 
-```
-git config --global user.name "Jhon Doe"
-git config --global user.email "example@example.com"
-```
+This page was created with dedication, if you want to visit the page click the link:  💙
 
-## Crear un repositorio desde Github
-
-## Inicializar git
-
-```
-git init
-```
-
-## Enlazar nuestro repositorio remoto
-
-```
-git remote add origin "https://github.com/12aptor/my-first-website.git"
-```
-
-## Definir la rama principal
-
-```
-git branch -M main
-```
-
-## Subir los cambios
-
-```
-git add --all
-git commit -m "my first commit"
-git push origin main
-```
+### End
